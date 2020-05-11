@@ -7,3 +7,4 @@ apt-get install git -y
 pip3 install requests
 clear
 ls
+python3 cam-hackers.py
