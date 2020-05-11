@@ -5,3 +5,5 @@ pkg install python -y
 pkg install python2 -y
 apt-get install git -y
 pip3 install requests
+clear
+ls
